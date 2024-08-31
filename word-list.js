@@ -13,7 +13,7 @@ const wordList=[
     },
     {
         word: "painting",
-        hint: "An art form using colors on a surface to craete images or expression."
+        hint: "An art form using colors on a surface to create images or expression."
     },
     {
         word: "astronomy",
